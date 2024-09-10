@@ -2,11 +2,7 @@
 
 Here are some ideas to get you started:
 
-<<<<<<< HEAD
 - 🔭 Here's my [Resume](vignesh_resume.docx)
-=======
-- 🔭 Here's my [Resume](https://docs.google.com/document/d/1Vs9RfjIbjIWbTgnbXdJ1ynOVa5fAjqTLN_n_RAM5CYc/edit?usp=drivesdk)
->>>>>>> 856774b0008c429731b7f44020a029d93b4be919
 - 🌱 I’m currently learning Full Stack Web Development
 - 👯 I’m looking to collaborate on open source projects and professional projects
 - 💬 Ask me about Web Technologies
@@ -25,10 +21,4 @@ Here are some ideas to get you started:
 [![Vicky's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vickydecodes&bg_color=000000&color=ffffff&line=4c7f9e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## LeetCode Stats
-<<<<<<< HEAD
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![LeetCode Stats](https://leetcard.jacoblin.cool/vicky-codes?theme=dark&font=Alata)
-=======
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![LeetCode Stats](https://leetcard.jacoblin.cool/vicky-codes?theme=dark&font=Alata)
-
-
->>>>>>> 856774b0008c429731b7f44020a029d93b4be919
