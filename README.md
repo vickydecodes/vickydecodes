@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Here's my [Resume](vignesh_resume.docx)
+- 🔭 Here's my [Resume](vignesh_resume_oct2024.pdf)
 - 🌱 I’m currently learning Full Stack Web Development
 - 👯 I’m looking to collaborate on open source projects and professional projects
 - 💬 Ask me about Web Technologies
