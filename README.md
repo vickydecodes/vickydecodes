@@ -10,13 +10,14 @@
 
 <div align="center">
 
-
 ![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
 
-<details>
-<summary>Open profile</summary>
 
-<br>
+
+<details>
+
+<summary style=" background-color: white; height: 100px; margin-bottom: 20px; width: 100px; display: flex; justify-content:center; align-items: center; color: black; border-radius: 50%;font-weight: 800; font-size: 20px;border: 10px solid black"> <span style='padding: 10px; border: 5px solid black; border-radius: 50%; background-color: black; color: white'>Tap</span> </summary>
+
 <div>
   <div align=center>
       <img height="300" src="./assets/hey_2.png" alt="It's me">
