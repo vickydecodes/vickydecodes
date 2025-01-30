@@ -220,14 +220,11 @@ If you have any questions about web development, writing mistake-free documentat
 <div align=center>
  <a href="https://www.linkedin.com/in/vickyatln26/" target="_blank"><img style="height: 35px"  src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
 <a href="mailto:workofvicky" target="_blank"><img alt="Email" style="height: 35px"  src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
-<a href="https://www.instagram.com/_._vickyyy/" target="_blank"><img style="height: 35px" alt="Instagram" src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=
-" /></a>
-<a href="https://twitter.com/vickykraken23" target="_blank"><img style="height: 35px"  src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=X&logoColor=FFFFFF&label=
-" alt="Twitter" /></a>
-<a href="https://leetcode.com/u/vicky-codes/" target="_blank"><img style="height: 35px" src="https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=FFA116&logo=LeetCode&logoColor=FFFFFF&label=
-" alt="LeetCode" /></a>
-<a href="https://www.hackerrank.com/profile/vickyatweb" target="_blank"><img style="height: 35px"  src="https://img.shields.io/static/v1?style=for-the-badge&message=HackerRank&color=2EC866&logo=HackerRank&logoColor=FFFFFF&label=
-" alt="HackerRank" /></a>
+<a href="https://www.instagram.com/_._vickyyy/" target="_blank"><img style="height: 35px" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"" /></a>
+<a href="https://twitter.com/vickykraken23" target="_blank"><img style="height: 35px"  src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+<a href="https://leetcode.com/u/vicky-codes/" target="_blank"><img style="height: 35px" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://www.hackerrank.com/profile/vickyatweb" target="_blank"><img style="height: 35px"  src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
+ alt="HackerRank" /></a>
 <a href="vignesh_resume_oct2024.pdf" download target="_blank">
     <img style="height: 35px;" src="https://img.shields.io/static/v1?style=for-the-badge&message=Resume&color=black&logo=readthedocs&logoColor=white&label=" alt="Resume" />
 </a>
