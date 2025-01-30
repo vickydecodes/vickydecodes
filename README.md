@@ -223,8 +223,7 @@ If you have any questions about web development, writing mistake-free documentat
 <a href="https://www.instagram.com/_._vickyyy/" target="_blank"><img style="height: 35px" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"" /></a>
 <a href="https://twitter.com/vickykraken23" target="_blank"><img style="height: 35px"  src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
 <a href="https://leetcode.com/u/vicky-codes/" target="_blank"><img style="height: 35px" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
-<a href="https://www.hackerrank.com/profile/vickyatweb" target="_blank"><img style="height: 35px"  src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
- alt="HackerRank" /></a>
+<a href="https://www.hackerrank.com/profile/vickyatweb" target="_blank"><img style="height: 35px"  src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" /></a>
 <a href="vignesh_resume_oct2024.pdf" download target="_blank">
     <img style="height: 35px;" src="https://img.shields.io/static/v1?style=for-the-badge&message=Resume&color=black&logo=readthedocs&logoColor=white&label=" alt="Resume" />
 </a>
