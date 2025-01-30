@@ -21,9 +21,14 @@
   <div align=center>
       <img height="300" src="./assets/hey_2.png" alt="It's me">
   </div>
+
   <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey+there!+I'm+ Vicky;Techie+and+AI/ML+Enthusiast;MERN+Stack+Developer;Building+Cool+Projects;Fitness+and+Gym+Lover;Lifelong+Learner+🚀">
+ <div style="display: flex; justify-content: center;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey+there!+I'm+Vicky;Techie+and+AI/ML+Enthusiast;MERN+Stack+Developer;Building+Cool+Projects;Fitness+and+Gym+Lover;Lifelong+Learner+🚀" alt="Typing SVG">
+  </a>
+</div>
+
 </a>
 
 </p>
@@ -215,7 +220,7 @@ If you have any questions about web development, writing mistake-free documentat
 <div align=center>
  <a href="https://www.linkedin.com/in/vickyatln26/" target="_blank"><img style="height: 35px"  src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
 <a href="mailto:workofvicky" target="_blank"><img alt="Email" style="height: 35px"  src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
-<a href="https://www.instagram.com/_._vickyyy/" target="_blank"><img style="height: 35px" alt="Steam" src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=
+<a href="https://www.instagram.com/_._vickyyy/" target="_blank"><img style="height: 35px" alt="Instagram" src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=
 " /></a>
 <a href="https://twitter.com/vickykraken23" target="_blank"><img style="height: 35px"  src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=X&logoColor=FFFFFF&label=
 " alt="Twitter" /></a>
